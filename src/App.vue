@@ -1,8 +1,9 @@
-<script setup lang="ts">
-</script>
-
 <template>
-  <div>Menu</div>
+  <div>
 
-  <footer>Rodapé</footer>
+  </div>
 </template>
+
+<script setup>
+
+</script>
