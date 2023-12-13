@@ -122,11 +122,11 @@ const user = {
 }
 
 const navigation = [
-  { name: 'Home', href: '#', current: true },
-  { name: 'Sobre', href: '#', current: false },
-  { name: 'Listar empresas', href: '#', current: false },
-  { name: 'Login', href: '#', current: false },
-  { name: 'Cadastrar empresa', href: '#', current: false },
+  { name: 'Home', href: '/', current: true },
+  { name: 'Sobre', href: '/about', current: false },
+  { name: 'Listar empresas', href: '/companies', current: false },
+  { name: 'Login', href: '/login', current: false },
+  { name: 'Cadastrar empresa', href: '/register', current: false },
 ]
 
 const userNavigation = [

@@ -25,7 +25,7 @@ const routes = [
     component: List
   },
   {
-    path: "/company/register",
+    path: "/register",
     name: "Registrar",
     component: Register
   },

@@ -100,7 +100,3 @@ export default {
   }
 };
 </script>
-
-<style>
-/* Estilos Tailwind CSS ou importe um arquivo .css com os estilos */
-</style>
